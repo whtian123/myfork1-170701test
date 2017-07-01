@@ -1,0 +1,25 @@
+{
+  "name": "1707012206test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "devDependencies": {
+    "bootstrap": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htian88/170701test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htian88/170701test/issues"
+  },
+  "homepage": "https://github.com/htian88/170701test#readme"
+}
